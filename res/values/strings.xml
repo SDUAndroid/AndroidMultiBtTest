@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">MultiBtTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    
+    <string name="polar_hr_sensor_mac_1">00:22:D0:02:40:53</string> <!--  -->
+    
+
+</resources>
